@@ -10,12 +10,12 @@
 ### Parte 1: Conceitos Básicos
 
 1. (2,0 pontos) Explique a diferença entre os métodos de redimensionamento de imagem:
-   * Nearest Neighbor
-   * Bilinear
+   * Nearest Neighbor: Ele é o mnétodo mais simples rápido, pois quando a imagem é redimensionda ele escolho o pixel mais próximo para substituir, mas ele pode perder a qualidade.
+   * Bilinear: 
    * Bicubic
    
 2. (1,5 pontos) Por que é importante fazer backup das imagens originais antes de aplicar transformações? Cite dois cenários onde isso é crítico.
-
+Porque 
 ### Parte 2: Escala de Cinza
 
 3. (2,0 pontos) Compare os dois métodos de conversão para escala de cinza vistos em aula:
